@@ -1,0 +1,145 @@
+#body{
+  padding: 10px 20px 30px 20px ;
+  padding-top: 10px;;
+  /* background-color: black; */
+  background-color:#98989c;
+  
+}
+#n:hover{
+  background-color: aqua;
+  color:black;
+}
+
+#b:hover{
+  color: aqua;
+  text-decoration: none;
+}
+a:hover{
+  color: blue;
+  
+}
+
+
+
+div.im {
+ background:url(/images/pexels-rovenimagescom-949587.jpg) no-repeat;
+  min-height: 400px;
+  height: auto;
+  width:100%;
+  display: block;
+  text-align: justify;
+  padding: 3%;
+  font-size: 150%;
+
+}
+
+#s1 {
+    /* background-color: black; */
+    /* border: solid black 10px; */
+    display: block;
+    text-align: left;
+    width: 15%;
+    height: 800px;
+
+}
+
+#mid1 {
+    
+  /* border: 10px solid black; */
+  color: black;
+ min-width: 100%;
+ width:auto;
+  min-height: 400px;
+  height:auto;
+  font-size: 20px;
+  box-shadow: 8px 8px whitesmoke;
+  padding-top: 20px;
+  padding-left: 20px;
+   background-color:grey;
+}
+#t{
+  
+  border: 2px solid black;
+  border-radius: 40px;
+  width: auto;
+  height:auto;
+ background-color: coral;
+  padding: 20px;
+  border-spacing: 30px;
+  box-shadow: 8px 8px darkgrey;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 23px;
+color: black;
+}
+div>h3{
+  font-size: 32px; 
+}
+
+#mid2 {
+  /* border: 10px solid black; */
+  color: black;
+  min-width: 100%;
+  width:auto;
+   min-height: 400px;
+   height:auto;
+   font-size: 20px;
+   padding-left: 20px;
+   padding-top: 20px;
+   box-shadow: 8px 8px whitesmoke;
+   background-color:grey;
+}
+#mid3 {
+  /* border: 10px solid black; */
+    width: 100%;
+    min-height:450px;
+    height:auto;
+    font-size: 20px;
+    background-color:grey;
+    box-shadow: 8px 8px whitesmoke;
+}
+h5{padding-left: 20px;
+  
+  text-align: justify;
+}
+#li{
+
+  /* background-color: blue; */
+  border: 2px solid black;
+  border-radius: 80px;
+  padding: 3%;
+  padding-top: 2%;
+  text-align: justify;
+  background-color:coral;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+  color: black;
+  padding-left: 6%;
+  padding-right: 6%;
+ 
+}
+
+#mid4 {
+  /* border: 10px solid black; */
+  width: 100%;
+height:100px;
+ 
+ 
+
+
+}
+
+footer{
+     float: right;
+    width: 85%;
+    height:30px;
+    font-size: 20px;
+    
+}
+footer>section{
+  padding: 20px;
+}
+article{
+  text-align: center;
+}
+
