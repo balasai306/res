@@ -91,7 +91,7 @@ div>h3{
 }
 #mid3 {
   /* border: 10px solid black; */
-    width: 100%;
+  
     min-height:450px;
     height:auto;
     font-size: 20px;
@@ -106,15 +106,15 @@ h5{padding-left: 20px;
 
   /* background-color: blue; */
   border: 2px solid black;
-  border-radius: 80px;
-  padding: 3%;
-  padding-top: 2%;
-  text-align: justify;
+  border-radius: 50px;
+  /* padding: 3%; */
+  padding-top: 5px;
+  text-align: center;
   background-color:coral;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 22px;
   color: black;
-  padding-left: 6%;
+  padding-left: 5%;
   padding-right: 6%;
  
 }
